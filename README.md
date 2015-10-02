@@ -1,6 +1,6 @@
 # Why bother anymore?
 
-¯\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
 
 ```r
 devtools::install_github('kleinschmidt/fuckit.R')
