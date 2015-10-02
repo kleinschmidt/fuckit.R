@@ -3,7 +3,7 @@ Title: Just give up.
 Version: 0.0.0.9000
 Authors@R: c(
   person("Dave", "Kleinschmidt", email = "dave.f.kleinschmidt@gmail.com", role = c("aut", "cre")),
-  person("Esteban", "Buz", email = "estebanbuz@gmail.com", role = c("cre")))
+  person("Esteban", "Buz", email = "esteban.buz@gmail.com", role = "aut"))
 Description: You weren't seriously going to get any work done, were you?
 Depends: R (>= 3.1.2)
 License: GPL3
