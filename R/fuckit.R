@@ -2,4 +2,4 @@ browseURL("http://www.theonion.com/article/health-experts-recommend-standing-up-
 
 Sys.sleep(0.1)
 
-quit(save = "no", runLast = FALSE, status = 1)
+quit(save = "no", runLast = FALSE, status = 0)

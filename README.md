@@ -1,14 +1,15 @@
 # Why bother anymore?
 
+¯\_(ツ)_/¯
+
 ```r
 devtools::install_github('kleinschmidt/fuckit.R')
-```
-
-Ignore errors.
-
-```r
 library(fuckit)
 ```
+
+You can blame this terrible idea on [Esteban Buz](http://www.esteban.bz/) and [Dave Kleinschmidt](http://www.davekleinschmidt.com).
+
+## Disclaimer
 
 This is obviously a joke. Make sure you've saved anything in your workspace that you care about before running random code you downloaded from the internet.
 
