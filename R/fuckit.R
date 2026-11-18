@@ -1,4 +1,4 @@
-browseURL("http://www.theonion.com/article/health-experts-recommend-standing-up-at-desk-leavi-37957")
+browseURL("https://theonion.com/health-experts-recommend-standing-up-at-desk-leaving-o-1819577456/")
 
 Sys.sleep(0.1)
 
